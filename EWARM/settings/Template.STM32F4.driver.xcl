@@ -1,0 +1,25 @@
+ -B 
+
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench ARM v7.4\arm\CONFIG\debugger\ST\STM32F429ZI.ddf" 
+
+"--semihosting" 
+
+"--device=STM32F429ZI" 
+
+"--drv_interface=SWD" 
+
+"--stlink_reset_strategy=0,0" 
+
+"--drv_swo_clock_setup=72000000,0,2000000" 
+
+
+
+
